@@ -22,3 +22,4 @@ test.close()
 
 output = open("result.txt", 'w')
 output.writelines(result)
+output.close()
